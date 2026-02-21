@@ -83,10 +83,10 @@ export default function NichyI2BWebsite() {
           <h2 className="text-3xl font-bold">Contact</h2>
           <div className="space-y-2">
             <p className="flex items-center justify-center gap-2">
-              <Phone className="w-5 h-5" /> 66769225 / 97656327
+              <Phone className="w-5 h-5" /> 66769225 / 95769225
             </p>
             <p className="flex items-center justify-center gap-2">
-              <Mail className="w-5 h-5" /> ecclesiasteallandemadji@gmail.com
+              <Mail className="w-5 h-5" /> nichy.i2b@gmail.com
             </p>
             <p>Ndjamena / Toukra, 9e arrondissement</p>
           </div>
@@ -98,7 +98,7 @@ export default function NichyI2BWebsite() {
 
       {/* FOOTER */}
       <footer className="bg-indigo-900 text-white text-center py-6">
-        <p>© 2026 NICHY - I²B | Formation Professionnelle & Expertise Terrain</p>
+        <p>© 2026 NICHY - I²B | Formation Professionnelle, SIG, Nutrition, Analyse des données, Expertise Terrain</p>
       </footer>
     </div>
   );
